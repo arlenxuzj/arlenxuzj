@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2020 - 21 July, 2020
+Week: 15 July, 2020 - 22 July, 2020
 
 Python       45 hrs 42 mins  ███████████████████░░░░░░   76.02 % 
 TypeScript   10 hrs 26 mins  ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
