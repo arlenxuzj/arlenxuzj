@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 July, 2020 - 26 July, 2020
+Week: 20 July, 2020 - 27 July, 2020
 
-Python     40 hrs 28 mins  ██████████████████░░░░░░░   72.07 % 
-JSON       4 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Markdown   3 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-YAML       2 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Other      2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Python     36 hrs 19 mins  █████████████████░░░░░░░░   69.90 % 
+JSON       4 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Markdown   3 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+YAML       2 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Other      2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 <!--END_SECTION:waka-->
 
