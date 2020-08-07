@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 July, 2020 - 05 August, 2020
+Week: 30 July, 2020 - 06 August, 2020
 
 Python     1 hr 1 min      ██████████████░░░░░░░░░░░   58.02 % 
 Other      18 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
