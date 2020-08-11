@@ -2,10 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2020 - 09 August, 2020
-
-Other    5 mins          ████████████████████████░   95.94 % 
-Python   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
