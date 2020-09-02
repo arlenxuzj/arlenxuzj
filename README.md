@@ -2,13 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 August, 2020 - 31 August, 2020
-
-JSON         41 mins         ████████████░░░░░░░░░░░░░   47.57 % 
-Python       36 mins         ██████████▓░░░░░░░░░░░░░░   42.50 % 
-JavaScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
