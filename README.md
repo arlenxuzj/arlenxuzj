@@ -2,8 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   9 mins          ████████████████████▓░░░░   82.81 % 
-Bash         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Git Config   9 mins          ███████████████████████▒░   93.76 % 
 ```
 <!--END_SECTION:waka-->
 
