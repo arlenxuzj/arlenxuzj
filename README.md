@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   9 mins          ███████████████████████▒░   93.76 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
