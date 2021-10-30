@@ -2,7 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other                 33 mins         █████████████████░░░░░░░░   67.58 % 
+Sublime Text Config   16 mins         ████████░░░░░░░░░░░░░░░░░   32.32 % 
 ```
 <!--END_SECTION:waka-->
 
