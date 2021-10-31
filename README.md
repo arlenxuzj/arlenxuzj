@@ -2,8 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other                 33 mins         █████████████████░░░░░░░░   67.58 % 
-Sublime Text Config   16 mins         ████████░░░░░░░░░░░░░░░░░   32.32 % 
+Other                 33 mins         ██████████████▒░░░░░░░░░░   56.87 % 
+Sublime Text Config   16 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.20 % 
+Bash                  9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 ```
 <!--END_SECTION:waka-->
 
