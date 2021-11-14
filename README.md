@@ -2,7 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash    6 mins          ████████████████████░░░░░   80.04 % 
+tmux    1 min           █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
 ```
 <!--END_SECTION:waka-->
 
