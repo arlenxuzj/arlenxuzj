@@ -2,7 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Text                  21 mins         █████████████▒░░░░░░░░░░░   52.84 % 
+IDEA_MODULE           12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.89 % 
+Python                4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+requirements.txt      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 <!--END_SECTION:waka-->
 
