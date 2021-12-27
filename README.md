@@ -2,9 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash                  11 mins         █████████████▓░░░░░░░░░░░   54.30 % 
-Sublime Text Config   4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.13 % 
-JSON                  4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.57 % 
+JavaScript            25 mins         ███████████▓░░░░░░░░░░░░░   46.52 % 
+Bash                  14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 % 
+JSON                  8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Sublime Text Config   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 ```
 <!--END_SECTION:waka-->
 
