@@ -2,11 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python                43 mins         ███████████░░░░░░░░░░░░░░   44.49 % 
-JSON                  29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.31 % 
-Bash                  20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.27 % 
-GitIgnore file        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Sublime Text Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                1 hr 23 mins    ███████████▓░░░░░░░░░░░░░   47.03 % 
+Bash                  58 mins         ████████▒░░░░░░░░░░░░░░░░   33.17 % 
+JSON                  30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+GitIgnore file        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Sublime Text Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
 
