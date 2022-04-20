@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript            43 mins         █████████████████░░░░░░░░   67.99 %
-Python                9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-JSON                  6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Sublime Text Config   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Other                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
