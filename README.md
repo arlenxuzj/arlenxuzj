@@ -3,11 +3,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C476%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C477%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-629%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -59,15 +59,15 @@ Windows                  1 hr                ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+JavaScript               16 repos            ████████░░░░░░░░░░░░░░░░░   34.04% 
+TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   34.04% 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Shell                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Emacs Lisp               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
 ```
 
 
 
- Last Updated on 2022/11/13 19:44:35 UTC
+ Last Updated on 2022/11/13 20:47:27 UTC
 <!--END_SECTION:waka-->
