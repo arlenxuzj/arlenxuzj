@@ -12,5 +12,3 @@ TOML             2 hrs 3 mins    █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue)
