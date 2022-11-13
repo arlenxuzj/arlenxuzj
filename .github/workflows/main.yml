@@ -18,3 +18,4 @@ jobs:
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
           SHOW_PROJECTS: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
