@@ -2,7 +2,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/arlenxuzj/arlenxuzj/master/assets/wave.gif" width="30px">
 
-My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and studying in NYC now.
+My name is Zhen Jun Xu and you can call me Arlen. 
+
+I'm from China, living and studying in NYC now.
 
 **A little more about me...**
 
