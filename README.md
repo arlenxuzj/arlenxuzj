@@ -1,6 +1,6 @@
-### Hello, I'm Zhen Jun Xu! <img src="https://raw.githubusercontent.com/arlenxuzj/arlenxuzj/master/assets/wave.gif" width="30px">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" />
 
----
+# Hello, I'm Zhen Jun Xu! <img src="https://raw.githubusercontent.com/arlenxuzj/arlenxuzj/master/assets/wave.gif" width="30px">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C480%20hrs%2039%20mins-blue)
