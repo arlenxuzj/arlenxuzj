@@ -4,8 +4,10 @@
 
 My name is `Zhen Jun Xu` and you can call me `Arlen`. I'm from China, living and studying in NYC now.
 
-- I started my coding journey in 2015 with python/C/C++ in university.
-- I play in `.tsx?`, `.jsx?`, `.html`, `css` every day.
+**A little more about me...**
+
+ - I started my coding journey in 2015 with python/C/C++ in university.
+ - I play in `.tsx?`, `.jsx?`, `.html`, `css` every day.
 
 ## &#x1f4c8; My Stats
 
