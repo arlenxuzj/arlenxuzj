@@ -10,7 +10,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
  - I started my coding journey in 2015 with Python/C in university.
  - I play in `.tsx?`, `.jsx?`, `.html`, `css` every day.
 
-## &#x1f4c8; My Stats
+## My Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C480%20hrs%2039%20mins-blue)
