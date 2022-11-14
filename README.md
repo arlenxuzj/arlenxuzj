@@ -2,11 +2,12 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/arlenxuzj/arlenxuzj/master/assets/wave.gif" width="30px">
 
-My name is `Zhen Jun Xu` and you can call me `Arlen`. I'm from China, living and studying in NYC now.
+My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and studying in NYC now.
 
 **A little more about me...**
 
- - I started my coding journey in 2015 with python/C/C++ in university.
+ - I'm currently learning Next.js Framework.
+ - I started my coding journey in 2015 with Python/C in university.
  - I play in `.tsx?`, `.jsx?`, `.html`, `css` every day.
 
 ## &#x1f4c8; My Stats
