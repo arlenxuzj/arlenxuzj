@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="460" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="480" height="320" />
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/arlenxuzj/arlenxuzj/master/assets/wave.gif" width="30px">
 
