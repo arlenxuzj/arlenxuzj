@@ -1,6 +1,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500" height="320" />
 
-# Hello, I'm Zhen Jun Xu! <img src="https://raw.githubusercontent.com/arlenxuzj/arlenxuzj/master/assets/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/arlenxuzj/arlenxuzj/master/assets/wave.gif" width="30px">
+
+My name is Zhen Jun Xu. I'm from China, living and studying in NYC now.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C480%20hrs%2039%20mins-blue)
