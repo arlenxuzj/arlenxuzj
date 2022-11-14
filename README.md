@@ -2,7 +2,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/arlenxuzj/arlenxuzj/master/assets/wave.gif" width="30px">
 
-My name is Zhen Jun Xu. I'm from China, living and studying in NYC now.
+My name is `Zhen Jun Xu` and you can call me `Arlen`. I'm from China, living and studying in NYC now.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## &#x1f4c8; My Stats
 
