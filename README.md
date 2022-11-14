@@ -8,7 +8,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 
  - I'm currently learning Next.js Framework.
  - I started my coding journey in 2015 with Python/C in university.
- - I play in `.tsx?`, `.jsx?`, `.html`, `css` every day.
+ - I play in `.tsx?`, `.jsx?`, `css` every day.
 
 ## My Stats
 
