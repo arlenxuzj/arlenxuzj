@@ -12,6 +12,8 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 
 ## My Stats
 
+![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C051%20hrs%2049%20mins-blue)
 
