@@ -15,7 +15,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C062%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C071%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-285%20Thousand%20lines%20of%20code-blue)
 
@@ -48,18 +48,18 @@ Sunday          41 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               23 hrs 26 mins      ███████████████████░░░░░░   75.68 % 
-JSON                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-MDX                      59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TypeScript               31 hrs 17 mins      ████████████████████░░░░░   80.34 % 
+JSON                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Other                    2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+MDX                      1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 39 mins      ████████████████████████░   98.98 % 
-Sublime Text             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VS Code                  38 hrs 38 mins      ████████████████████████░   99.19 % 
+Sublime Text             18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Mac                      30 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 57 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -76,7 +76,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023/02/13 00:10:01 UTC
+ Last Updated on 2023/02/14 00:11:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
