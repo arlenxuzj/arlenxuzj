@@ -15,7 +15,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C133%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C133%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-804.7%20thousand%20lines%20of%20code-blue)
 
@@ -46,17 +46,18 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               19 mins             █████████████░░░░░░░░░░░░   52.89 % 
-Bash                     15 mins             ███████████░░░░░░░░░░░░░░   43.09 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JavaScript               54 mins             ██████████████████░░░░░░░   74.00 % 
+Bash                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 12 mins        █████████████████████████   98.71 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +73,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023/04/11 00:07:30 UTC
+ Last Updated on 2023/04/12 00:07:01 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
