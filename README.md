@@ -15,7 +15,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C141%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C154%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-804.7%20thousand%20lines%20of%20code-blue)
 
@@ -46,16 +46,16 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       ███████████████░░░░░░░░░░   58.69 % 
-JSON                     2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TypeScript               4 hrs 13 mins       █████████████░░░░░░░░░░░░   53.12 % 
+JSON                     2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
+Other                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -71,7 +71,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023/04/23 00:08:08 UTC
+ Last Updated on 2023/04/24 00:07:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
