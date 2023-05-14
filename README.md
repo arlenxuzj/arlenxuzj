@@ -15,7 +15,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C217%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C221%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-688.4%20thousand%20lines%20of%20code-blue)
 
@@ -46,18 +46,18 @@ Sunday                   60 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               11 hrs 41 mins      █████████████████████░░░░   82.08 % 
-MDX                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-TOML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+TypeScript               14 hrs 7 mins       ██████████████████████░░░   86.50 % 
+MDX                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 36 mins      ████████████████████████░   95.53 % 
-Sublime Text             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+VS Code                  16 hrs 17 mins      █████████████████████████   99.81 % 
+Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Mac                      14 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +73,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023/05/13 00:07:15 UTC
+ Last Updated on 2023/05/14 00:08:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
