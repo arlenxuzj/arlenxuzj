@@ -15,7 +15,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C290%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C300%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-812.0%20thousand%20lines%20of%20code-blue)
 
@@ -46,18 +46,18 @@ Sunday                   89 commits          █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               34 hrs 40 mins      █████████████████████░░░░   82.53 % 
-JSON                     4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JavaScript               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript               44 hrs 51 mins      █████████████████████░░░░   85.86 % 
+JSON                     4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+JavaScript               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 46 mins      █████████████████████████   99.44 % 
-Sublime Text             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+VS Code                  51 hrs 59 mins      █████████████████████████   99.53 % 
+Sublime Text             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      42 hrs              █████████████████████████   100.00 % 
+Mac                      52 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +73,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2023/06/01 00:09:12 UTC
+ Last Updated on 2023/06/02 00:07:45 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
