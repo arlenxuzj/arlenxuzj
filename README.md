@@ -15,45 +15,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C343%20hrs%2011%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.6%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-🌆 Daytime                196 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌃 Evening                198 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌙 Night                  162 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   102 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Tuesday                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Wednesday                43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Thursday                 176 commits         ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Friday                   126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Sunday                   144 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -68,7 +30,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2025/05/02 00:11:22 UTC
+ Last Updated on 2025/05/03 00:10:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
