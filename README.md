@@ -46,18 +46,13 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-SQL                      19 mins             ██████████████░░░░░░░░░░░   56.48 % 
-Text                     11 mins             ████████░░░░░░░░░░░░░░░░░   31.91 % 
-textmate                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 20 mins             ███████████████░░░░░░░░░░   59.90 % 
-VS Code                  13 mins             ██████████░░░░░░░░░░░░░░░   40.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +68,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2025/05/18 00:12:19 UTC
+ Last Updated on 2025/05/19 00:12:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
