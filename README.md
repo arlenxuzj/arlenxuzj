@@ -15,6 +15,8 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C367%20hrs%2017%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.56%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -70,7 +72,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/05/16 00:29:44 UTC
+ Last Updated on 2026/05/17 00:31:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
