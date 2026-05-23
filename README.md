@@ -15,6 +15,8 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C370%20hrs%2042%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.56%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -44,14 +46,17 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 3 hrs 17 mins       ████████████████████████░   96.97 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Markdown                 6 hrs 58 mins       █████████████████░░░░░░░░   67.89 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Mermaid                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,7 +72,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/05/22 00:34:31 UTC
+ Last Updated on 2026/05/23 00:33:57 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
