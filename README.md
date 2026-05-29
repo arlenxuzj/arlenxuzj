@@ -15,49 +15,7 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C377%20hrs%2035%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.56%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-🌆 Daytime                196 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌃 Evening                198 commits         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-🌙 Night                  162 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   102 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Tuesday                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Wednesday                43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Thursday                 176 commits         ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Friday                   126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Sunday                   144 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-Markdown                 4 hrs 8 mins        ██████████████░░░░░░░░░░░   55.91 % 
-JSON                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-YAML                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Mermaid                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 25 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -72,7 +30,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/05/28 00:32:29 UTC
+ Last Updated on 2026/05/29 00:38:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
