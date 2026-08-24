@@ -48,35 +48,38 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 19 mins             ██████████████████████░░░   86.59 % 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Markdown                 19 mins             ████████████░░░░░░░░░░░░░   48.64 % 
+CSV                      17 mins             ███████████░░░░░░░░░░░░░░   42.83 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (90.23%)
+⏱ AI Coding Time: 20 mins (51.68%)
 
 ✍️ 1,443 lines written by AI, 3 lines written by hand (99.79% AI-written)
 
-🔤 10,755,903 Input Tokens, 137,248 Output Tokens
+🔤 10,763,622 Input Tokens, 150,039 Output Tokens
 
-💵 $58.03 Estimated AI Cost This Week
+💵 $59.75 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 8 AI Prompts
+🧠 8 AI Sessions, 10 AI Prompts
 
 GPT                      1,443 lines         █████████████████████████   100.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.79% of written lines came from AI
-📝 Concise Prompter — average 213 characters per prompt
+📝 Concise Prompter — average 184 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
@@ -94,7 +97,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/08/23 00:08:33 UTC
+ Last Updated on 2026/08/24 00:08:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
