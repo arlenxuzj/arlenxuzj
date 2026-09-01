@@ -15,9 +15,9 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C190%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C193%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.56%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -48,41 +48,41 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   6 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.30 % 
-Markdown                 3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-HTML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Python                   6 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.31 % 
+Markdown                 3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+HTML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+JavaScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 🔥 Editors: 
-Codex Vscode             12 hrs 24 mins      ██████████████████░░░░░░░   73.31 % 
-VS Code                  4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+Codex Vscode             12 hrs 5 mins       ██████████████████░░░░░░░   73.41 % 
+VS Code                  4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
 
 💻 Operating System: 
-Mac                      16 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 28 mins (97.4%)
+⏱ AI Coding Time: 16 hrs 1 min (97.37%)
 
-✍️ 19,894 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 17,740 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 12,008,813 Input Tokens, 1,797,158 Output Tokens
+🔤 11,609,778 Input Tokens, 1,711,156 Output Tokens
 
-💵 $310.10 Estimated AI Cost This Week
+💵 $301.88 Estimated AI Cost This Week
 
-🧠 98 AI Sessions, 267 AI Prompts
+🧠 94 AI Sessions, 264 AI Prompts
 
-GPT                      20,365 lines        █████████████████████████   99.87 % 
-Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+GPT                      18,197 lines        █████████████████████████   99.86 % 
+Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 11,763 characters per prompt
+📚 Verbose Prompter — average 11,896 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +98,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/08/31 00:18:57 UTC
+ Last Updated on 2026/09/01 00:20:03 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
