@@ -48,39 +48,39 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Python                   6 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.31 % 
-Markdown                 3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-HTML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-JavaScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Python                   6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.57 % 
+Markdown                 3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+HTML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+TypeScript               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Other                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 🔥 Editors: 
-Codex Vscode             12 hrs 5 mins       ██████████████████░░░░░░░   73.41 % 
-VS Code                  4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+Codex Vscode             13 hrs 37 mins      ██████████████████░░░░░░░   72.25 % 
+VS Code                  5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
 
 💻 Operating System: 
-Mac                      16 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 1 min (97.37%)
+⏱ AI Coding Time: 18 hrs 33 mins (98.46%)
 
-✍️ 17,740 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 19,113 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 11,609,778 Input Tokens, 1,711,156 Output Tokens
+🔤 13,561,437 Input Tokens, 1,901,949 Output Tokens
 
-💵 $301.88 Estimated AI Cost This Week
+💵 $340.33 Estimated AI Cost This Week
 
-🧠 94 AI Sessions, 264 AI Prompts
+🧠 111 AI Sessions, 336 AI Prompts
 
-GPT                      18,197 lines        █████████████████████████   99.86 % 
-Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+GPT                      20,094 lines        █████████████████████████   99.87 % 
+Codex-Vscode             26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 11,896 characters per prompt
+📚 Verbose Prompter — average 12,801 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -88,17 +88,17 @@ Codex-Vscode             26 lines            ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
+TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
 JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 ```
 
 
 
 
- Last Updated on 2026/09/01 00:20:03 UTC
+ Last Updated on 2026/09/02 00:17:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
