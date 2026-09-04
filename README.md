@@ -48,40 +48,40 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.76 % 
-Python                   7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-TypeScript               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-JavaScript               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-JSON                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Markdown                 7 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Python                   4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+TypeScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+JSON                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-Codex Vscode             19 hrs 43 mins      ██████████████████░░░░░░░   70.00 % 
-VS Code                  8 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Codex Vscode             16 hrs 24 mins      █████████████████░░░░░░░░   69.56 % 
+VS Code                  7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
 
 💻 Operating System: 
-Mac                      28 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 52 mins (98.94%)
+⏱ AI Coding Time: 23 hrs 28 mins (99.48%)
 
-✍️ 34,098 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 30,627 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 22,544,290 Input Tokens, 3,180,791 Output Tokens
+🔤 19,490,969 Input Tokens, 2,762,993 Output Tokens
 
-💵 $519.73 Estimated AI Cost This Week
+💵 $474.82 Estimated AI Cost This Week
 
-🧠 167 AI Sessions, 568 AI Prompts
+🧠 138 AI Sessions, 491 AI Prompts
 
-GPT                      34,638 lines        ████████████████████████░   97.62 % 
-Codex-Vscode             844 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+GPT                      30,966 lines        ████████████████████████░   97.35 % 
+Codex-Vscode             844 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 14,007 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 15,199 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -98,7 +98,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/09/03 00:17:26 UTC
+ Last Updated on 2026/09/04 00:16:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
