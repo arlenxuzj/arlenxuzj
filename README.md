@@ -48,41 +48,19 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 5 hrs 33 mins       █████████████░░░░░░░░░░░░   53.39 % 
-Python                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             7 hrs               █████████████████░░░░░░░░   67.31 % 
-VS Code                  3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Codex Vscode             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 25 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 24 mins (99.93%)
-
-✍️ 15,017 lines written by AI, 1 lines written by hand (99.99% AI-written)
-
-🔤 9,545,257 Input Tokens, 1,327,694 Output Tokens
-
-💵 $234.98 Estimated AI Cost This Week
-
-🧠 61 AI Sessions, 246 AI Prompts
-
-GPT                      14,687 lines        ████████████████████████░   94.72 % 
-Codex-Vscode             818 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 15,473 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,7 +76,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/09/09 00:17:27 UTC
+ Last Updated on 2026/09/10 00:15:53 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
