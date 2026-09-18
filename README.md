@@ -48,59 +48,59 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 10 hrs 44 mins      ███████████████░░░░░░░░░░   59.03 % 
-Python                   5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown                 8 hrs 47 mins       ██████████████░░░░░░░░░░░   56.76 % 
+Python                   4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 42 mins      ████████████████░░░░░░░░░   64.36 % 
-Codex Vscode             5 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  10 hrs 34 mins      █████████████████░░░░░░░░   68.28 % 
+Codex Vscode             4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      18 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 10 mins (99.91%)
+⏱ AI Coding Time: 15 hrs 28 mins (99.89%)
 
-✍️ 3,544 lines written by AI, 7 lines written by hand (99.8% AI-written)
+✍️ 2,365 lines written by AI, 7 lines written by hand (99.7% AI-written)
 
-🔤 39,588,972 Input Tokens, 721,698 Output Tokens
+🔤 36,551,187 Input Tokens, 544,615 Output Tokens
 
-💵 $328.69 Estimated AI Cost This Week
+💵 $278.60 Estimated AI Cost This Week
 
-🧠 130 AI Sessions, 642 AI Prompts
+🧠 111 AI Sessions, 596 AI Prompts
 
-GPT                      3,456 lines         ████████████████████████░   97.30 % 
-Codex-Vscode             96 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+GPT                      2,271 lines         ████████████████████████░   95.94 % 
+Codex-Vscode             96 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 65,474 characters per prompt
+🤖 AI-Driven — 99.7% of written lines came from AI
+📚 Verbose Prompter — average 67,013 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🚀 High AI Trust — 0.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 2026/09/17 00:15:48 UTC
+ Last Updated on 2026/09/18 00:16:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
