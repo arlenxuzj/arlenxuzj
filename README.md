@@ -48,41 +48,41 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 8 hrs 47 mins       ████████████████░░░░░░░░░   63.70 % 
-Python                   2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Other                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Markdown                 8 hrs 47 mins       ████████████████░░░░░░░░░   64.50 % 
+Python                   2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Other                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 40 mins       ██████████████████░░░░░░░   70.03 % 
-Codex Vscode             3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+VS Code                  9 hrs 31 mins       █████████████████░░░░░░░░   69.92 % 
+Codex Vscode             3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Mac                      13 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 47 mins (99.88%)
+⏱ AI Coding Time: 13 hrs 36 mins (99.87%)
 
 ✍️ 2,365 lines written by AI, 7 lines written by hand (99.7% AI-written)
 
-🔤 35,565,570 Input Tokens, 516,984 Output Tokens
+🔤 34,403,613 Input Tokens, 509,090 Output Tokens
 
-💵 $264.04 Estimated AI Cost This Week
+💵 $250.54 Estimated AI Cost This Week
 
-🧠 96 AI Sessions, 560 AI Prompts
+🧠 91 AI Sessions, 549 AI Prompts
 
 GPT                      2,271 lines         ████████████████████████░   95.94 % 
 Codex-Vscode             96 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.7% of written lines came from AI
-📚 Verbose Prompter — average 68,747 characters per prompt
+📚 Verbose Prompter — average 69,622 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.5% of changed lines were hand-edited
 ```
@@ -100,7 +100,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/09/19 00:16:33 UTC
+ Last Updated on 2026/09/20 00:18:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
