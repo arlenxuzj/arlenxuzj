@@ -15,9 +15,9 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C238%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C240%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.56%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -48,42 +48,43 @@ Sunday                   144 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Other                    12 hrs 58 mins      ████████████░░░░░░░░░░░░░   49.00 % 
-TypeScript               5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Markdown                 3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Python                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Other                    14 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.01 % 
+Markdown                 5 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+TypeScript               5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Python                   1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 5 mins       ███████████████░░░░░░░░░░   60.76 % 
-Claude Code              6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Codex Vscode             3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+VS Code                  18 hrs 7 mins       ███████████████░░░░░░░░░░   60.34 % 
+Claude Code              9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.29 % 
+Codex Vscode             2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 💻 Operating System: 
-Mac                      26 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 29 mins (99.97%)
+⏱ AI Coding Time: 30 hrs 1 min (99.98%)
 
-✍️ 17,839 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 19,182 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 29,829,035 Input Tokens, 1,742,468 Output Tokens
+🔤 32,138,990 Input Tokens, 2,313,517 Output Tokens
 
-💵 $452.83 Estimated AI Cost This Week
+💵 $544.26 Estimated AI Cost This Week
 
-🧠 171 AI Sessions, 1394 AI Prompts
+🧠 179 AI Sessions, 1505 AI Prompts
 
-Fable                    15,769 lines        ██████████████████████░░░   87.65 % 
-GPT                      2,203 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Codex-Vscode             18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Fable                    15,769 lines        ████████████████████░░░░░   81.57 % 
+GPT                      2,046 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Opus                     1,500 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Codex-Vscode             18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 14,267 characters per prompt
+📚 Verbose Prompter — average 14,316 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -101,7 +102,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026/09/25 00:17:12 UTC
+ Last Updated on 2026/09/26 00:16:23 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
