@@ -48,45 +48,45 @@ Sunday                   164 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 30 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.09 % 
-Other                    13 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Python                   6 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-TypeScript               5 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Swift                    4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Markdown                 30 hrs 43 mins      ████████████░░░░░░░░░░░░░   48.15 % 
+Other                    14 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Python                   6 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Swift                    4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+TypeScript               3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-Claude Code              39 hrs 49 mins      ███████████████░░░░░░░░░░   59.98 % 
-VS Code                  20 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   30.21 % 
-Codex Vscode             6 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Claude Code              34 hrs 8 mins       █████████████░░░░░░░░░░░░   53.51 % 
+VS Code                  21 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Codex Vscode             8 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 
 💻 Operating System: 
-Mac                      66 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      63 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 66 hrs 15 mins (99.78%)
+⏱ AI Coding Time: 63 hrs 37 mins (99.71%)
 
-✍️ 20,425 lines written by AI, 4 lines written by hand (99.98% AI-written)
+✍️ 18,987 lines written by AI, 6 lines written by hand (99.97% AI-written)
 
-🔤 223,474,224 Input Tokens, 21,645,536 Output Tokens
+🔤 271,687,097 Input Tokens, 25,101,904 Output Tokens
 
-💵 $17093.66 Estimated AI Cost This Week
+💵 $21224.58 Estimated AI Cost This Week
 
-🧠 198 AI Sessions, 2421 AI Prompts
+🧠 212 AI Sessions, 2573 AI Prompts
 
-Opus                     17,301 lines        ████████████████████░░░░░   80.76 % 
-Fable                    3,102 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-GPT                      898 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Codex-Vscode             123 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     14,923 lines        ███████████████████░░░░░░   74.61 % 
+Fable                    3,102 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+GPT                      1,706 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Codex-Vscode             163 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Sonnet                   107 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 9,334 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 9,192 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +102,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/10/03 00:17:06 UTC
+ Last Updated on 2026/10/04 00:59:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
