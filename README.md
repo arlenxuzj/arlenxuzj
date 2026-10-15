@@ -48,47 +48,47 @@ Sunday                   254 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 19 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   32.10 % 
-Other                    17 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Python                   4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-JavaScript               3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-TypeScript               2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Markdown                 18 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Other                    16 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Python                   4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+JavaScript               3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+TypeScript               3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-Codex Vscode             36 hrs 22 mins      ███████████████░░░░░░░░░░   60.68 % 
-Claude Code              8 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Chrome                   4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-VS Code                  3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-ChatGPT                  3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Codex Vscode             29 hrs 15 mins      ████████████░░░░░░░░░░░░░   49.51 % 
+Claude Code              12 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Chrome                   6 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+ChatGPT                  3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+VS Code                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
-Mac                      59 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      59 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 hrs 18 mins (83.89%)
+⏱ AI Coding Time: 48 hrs 10 mins (81.54%)
 
-✍️ 34,672 lines written by AI, 108 lines written by hand (99.69% AI-written)
+✍️ 40,027 lines written by AI, 49 lines written by hand (99.88% AI-written)
 
-🔤 102,547,521 Input Tokens, 9,281,044 Output Tokens
+🔤 58,571,220 Input Tokens, 6,486,665 Output Tokens
 
-💵 $2015.99 Estimated AI Cost This Week
+💵 $1410.45 Estimated AI Cost This Week
 
-🧠 198 AI Sessions, 1344 AI Prompts
+🧠 174 AI Sessions, 1309 AI Prompts
 
-GPT                      21,378 lines        ███████████████░░░░░░░░░░   60.51 % 
-Open                     7,174 lines         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Opus                     6,613 lines         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Codex-Vscode             162 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+GPT                      20,537 lines        ████████████░░░░░░░░░░░░░   49.99 % 
+Opus                     13,261 lines        ████████░░░░░░░░░░░░░░░░░   32.28 % 
+Open                     7,174 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Codex-Vscode             109 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📚 Verbose Prompter — average 1,807 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 1,061 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,7 +104,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/10/14 00:15:35 UTC
+ Last Updated on 2026/10/15 00:15:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
