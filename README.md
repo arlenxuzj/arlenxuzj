@@ -15,9 +15,9 @@ My name is Zhen Jun Xu and you can call me Arlen. I'm from China, living and stu
 ![Visitor Count](https://komarev.com/ghpvc/?username=arlenxuzj&color=blue&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C349%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C357%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-260%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-934.16%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -48,47 +48,47 @@ Sunday                   254 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Vancouver
 
 💬 Programming Languages: 
-Markdown                 18 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Other                    16 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-Python                   4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-JavaScript               3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-TypeScript               3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Other                    18 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Markdown                 18 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Python                   3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JavaScript               3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+TypeScript               3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-Codex Vscode             29 hrs 15 mins      ████████████░░░░░░░░░░░░░   49.51 % 
-Claude Code              12 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Chrome                   6 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-ChatGPT                  3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-VS Code                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Codex Vscode             24 hrs 57 mins      ███████████░░░░░░░░░░░░░░   42.47 % 
+Claude Code              12 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Chrome                   8 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+ChatGPT                  5 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Feishu                   2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Mac                      59 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      58 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 10 mins (81.54%)
+⏱ AI Coding Time: 45 hrs 10 mins (76.87%)
 
-✍️ 40,027 lines written by AI, 49 lines written by hand (99.88% AI-written)
+✍️ 37,324 lines written by AI, 48 lines written by hand (99.87% AI-written)
 
-🔤 58,571,220 Input Tokens, 6,486,665 Output Tokens
+🔤 53,582,148 Input Tokens, 6,030,746 Output Tokens
 
-💵 $1410.45 Estimated AI Cost This Week
+💵 $1528.01 Estimated AI Cost This Week
 
-🧠 174 AI Sessions, 1309 AI Prompts
+🧠 175 AI Sessions, 1259 AI Prompts
 
-GPT                      20,537 lines        ████████████░░░░░░░░░░░░░   49.99 % 
-Opus                     13,261 lines        ████████░░░░░░░░░░░░░░░░░   32.28 % 
-Open                     7,174 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Codex-Vscode             109 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+GPT                      16,968 lines        ███████████░░░░░░░░░░░░░░   44.62 % 
+Opus                     13,710 lines        █████████░░░░░░░░░░░░░░░░   36.06 % 
+Open                     7,174 lines         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Codex-Vscode             172 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📄 Detailed Prompter — average 1,061 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 1,043 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,7 +104,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/10/15 00:15:38 UTC
+ Last Updated on 2026/10/16 00:15:18 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
